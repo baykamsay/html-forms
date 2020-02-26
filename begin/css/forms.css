@@ -76,4 +76,6 @@ input:not([type="radio"]):not([type="checkbox"]), textarea, select {
     border: none;
 }
 
-
+h1, legend, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
